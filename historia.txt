@@ -1,0 +1,3 @@
+Mi historia soy Angel Quispe.
+Empezando en git
+y sobre todo aprendiendo a mejorar en el mundo de la programacion.
