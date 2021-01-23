@@ -2,3 +2,5 @@ Mi historia soy Angel Quispe.
 Naci en Perú.
 Empezando en git
 y sobre todo aprendiendo a mejorar en el mundo de la programacion.
+
+Hoy hablaremos de su vida.
